@@ -1,0 +1,48 @@
+[
+  {
+    "id": "c0517e01-3043-43dd-8d50-f12a24463ca6",
+    "title": "Блокнот с деревянной обложкой",
+    "type": "WEB DESIGN",
+    "category": "WEB DESIGN",
+    "year": "2026",
+    "description": "Дизайн обложки блокнота с деревянной текстурой и атмосферой рок-культуры. Визуальная концепция сочетает яркий кислотно-зелёный фон, контрастную типографику и фотографический коллаж с образом музыкальной группы. Задача — создать выразительную обложку, которая сразу передаёт характер продукта и привлекает внимание.",
+    "services": [
+      "Graphic Design",
+      "Cover Design",
+      "Typography",
+      "Photo Manipulation",
+      "Advertising Design"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c0517e01-3043-43dd-8d50-f12a24463ca6/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c0517e01-3043-43dd-8d50-f12a24463ca6/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c0517e01-3043-43dd-8d50-f12a24463ca6/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c0517e01-3043-43dd-8d50-f12a24463ca6/04.jpg",
+        "caption": "04 — SCREEN 02"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c0517e01-3043-43dd-8d50-f12a24463ca6/05.jpg",
+        "caption": "05 — SCREEN 03"
+      }
+    ],
+    "overviewTitle": "Дизайн обложки для блокнота",
+    "overviewText": [
+      "Концепция построена на контрасте яркого зелёного фона и тёмной рок-эстетики. Центральным элементом стал блокнот с деревянной обложкой, дополненный обработанной фотографией группы, декоративной типографикой и атмосферными деталями рабочего стола."
+    ],
+    "systemTitle": "Визуальная система",
+    "systemText": "Для проекта была выстроена единая визуальная система: контрастные цвета, сочетание массивной и рукописной типографики, тёмные фотографии и текстуры дерева. Все элементы работают вместе, формируя узнаваемый и эмоциональный образ обложки.",
+    "resultTitle": "Выразительный образ продукта",
+    "resultText": "Готовая композиция объединяет продукт, музыкальную эстетику и рекламную подачу в одном визуале. Обложка выглядит заметно в ленте и одновременно сохраняет ощущение физического печатного продукта.",
+    "sections": []
+  }
+]
