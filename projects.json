@@ -337,5 +337,63 @@
     "resultTitle": "Результат",
     "resultText": "Продуманный и визуально привлекательный веб-сайт, который упрощает поиск нужных точек для покупателей, повышает статус торгового центра и служит эффективной площадкой для привлечения новых посетителей и арендаторов.",
     "sections": []
+  },
+  {
+    "id": "7c285acc-3de0-44ba-850f-f740c72b501a",
+    "title": "Презентационный евробуклет «ЭкоСтак»",
+    "type": "Промо-материал / Рекламный буклет / Лифлет",
+    "category": "Print Design / Editorial Design / Eco Branding",
+    "year": "2026",
+    "description": "Верстка и дизайн 6-страничного евробуклета (лифлета) для производителя биоразлагаемой посуды из кукурузного крахмала «ЭкоСтак».",
+    "services": [
+      "Graphic Design",
+      "Layout Design",
+      "Editorial Design",
+      "Commercial Copywriting",
+      "Prepress"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/04.jpg",
+        "caption": "04 — SCREEN 02"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/05.jpg",
+        "caption": "05 — SCREEN 03"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/06.jpg",
+        "caption": "06 — SCREEN 04"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/07.jpg",
+        "caption": "07 — SCREEN 05"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/7c285acc-3de0-44ba-850f-f740c72b501a/08.jpg",
+        "caption": "08 — RESULT"
+      }
+    ],
+    "overviewTitle": "Задачи и концепция",
+    "overviewText": [
+      "Разработать наглядный и стильный рекламный буклет для презентации посуды из кукурузного крахмала. Главные задачи — отразить экологичность бренда, презентовать весь ассортимент продукции, наглядно объяснить этапы производства и показать преимущества по сравнению с традиционным пластиком."
+    ],
+    "systemTitle": "Структура и визуальные решения",
+    "systemText": "Результат",
+    "resultTitle": "Буклет имеет логичную 6-полосную структуру: обложка с УТП, блог об авторитете и мощностях производства (г. Волжск), наглядная инфографика «Почему выбирают ЭкоСтак» с официальной декларацией соответствия, иллюстрированный каталог продукции, инфографика полного цикла производства и сравнение сроков разложения, а также контактные данные с QR-кодом для перехода на сайт. В дизайне использована природная палитра (зеленые, оливковые и крафтово-песочные тона) и органическая графическая символика.",
+    "resultText": "Готовый к печати евробуклет, который эффективно транслирует ценности эко-бренда, закрывает основные вопросы оптовых покупателей и партнёров, укрепляет доверие к качеству российской продукции и стимулирует продажи.",
+    "sections": []
   }
 ]
