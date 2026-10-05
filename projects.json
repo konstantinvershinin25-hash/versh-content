@@ -180,5 +180,59 @@
     "resultTitle": "Результат работы",
     "resultText": "Создан яркий и структурированный комплект слайдов, который четко доносит габариты и достоинства товара, помогает потенциальному покупателю визуализировать ростовую фигуру в интерьере и повышает конверсию в покупку.",
     "sections": []
+  },
+  {
+    "id": "c3049639-21c8-40f7-ab6a-0afe0e8a7b34",
+    "title": "Корпоративная презентация",
+    "type": "Presentation Design",
+    "category": "B2B Corporate Identity",
+    "year": "2026",
+    "description": "Разработка официальной B2B-презентации промышленного предприятия, демонстрирующей производственные мощности, выпускаемую продукцию и портфолио реализованных объектов",
+    "services": [
+      "Presentation Design",
+      "Pitch Deck",
+      "Graphic Design",
+      "Layout Design",
+      "Photo Selection"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/04.jpg",
+        "caption": "04 — SCREEN 02"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/05.jpg",
+        "caption": "05 — SCREEN 03"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/06.jpg",
+        "caption": "06 — SCREEN 04"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/c3049639-21c8-40f7-ab6a-0afe0e8a7b34/07.jpg",
+        "caption": "07 — SCREEN 05"
+      }
+    ],
+    "overviewTitle": "Контекст и задачи проекта",
+    "overviewText": [
+      "Перед нами стояла задача структурировать и визуально оформить коммерческую презентацию завода «СЗМК» для привлечения новых партнеров и клиентов в строительной сфере. Важно было емко передать географию поставок (от Санкт-Петербурга до Владивостока, а также Казахстан и Узбекистан) и подчеркнуть технологичность производства."
+    ],
+    "systemTitle": "Структурирование информации и визуальные решения",
+    "systemText": "Вся презентация разбита на логические блоки: о компании, ключевые услуги и производственные процессы (плазменная резка, вальцовка, сварка), каталог продукции (фермы, балки, прогоны, колонны), а также портфолио крупных объектов с 2022 по 2023 год. Использована контрастная черно-серая цветовая гамма, соответствующая промышленной тематике.",
+    "resultTitle": "Итоговый результат",
+    "resultText": "Создан строгий и понятный B2B-инструмент продаж, который наглядно демонстрирует масштаб завода, подкрепляет экспертность конкретными кейсами (ЗИФ-5, ЗапСибНефтеХим-2, спортивные и логистические комплексы) и предоставляет исчерпывающую контактную информацию для потенциальных заказчиков.",
+    "sections": []
   }
 ]
