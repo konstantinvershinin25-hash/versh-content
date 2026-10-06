@@ -643,5 +643,55 @@
     "resultTitle": "Результат",
     "resultText": "Наглядное, стильное и убедительное портфолио, эффективно демонстрирующее потенциальным заказчикам навыки работы с композицией, цветом, типографикой и коммерческой инфографикой для роста продаж.",
     "sections": []
+  },
+  {
+    "id": "3fd56b0c-11eb-4c56-be4a-2f8ea975f552",
+    "title": "Wildberries / Ozon",
+    "type": "E-commerce Infographics / Карточки товаров / Слайдер серии",
+    "category": "Marketplace Design / Infographics / Home & Bedding",
+    "year": "2026",
+    "description": "Разработка серии главных карточек постельного белья из страйп-сатина в различных цветовых исполнениях (Оливковый, Белый, Шампань, Бежевый, Графит, Серый).",
+    "services": [
+      "Graphic Design",
+      "Marketplace Infographics",
+      "Photo Retouching",
+      "E-commerce Layout",
+      "Typography"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/3fd56b0c-11eb-4c56-be4a-2f8ea975f552/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/3fd56b0c-11eb-4c56-be4a-2f8ea975f552/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/3fd56b0c-11eb-4c56-be4a-2f8ea975f552/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/3fd56b0c-11eb-4c56-be4a-2f8ea975f552/04.jpg",
+        "caption": "04 — SCREEN 02"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/3fd56b0c-11eb-4c56-be4a-2f8ea975f552/05.jpg",
+        "caption": "05 — SCREEN 03"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/3fd56b0c-11eb-4c56-be4a-2f8ea975f552/06.jpg",
+        "caption": "06 — SCREEN 04"
+      }
+    ],
+    "overviewTitle": "Задачи и концепция",
+    "overviewText": [
+      "Создать элегантную, премиальную и единообразную серию обложек для каталога постельного белья из 100% хлопка. Дизайн должен подчеркивать уют, натуральность материалов и эстетику интерьера, одновременно донося до покупателя доступную размерную сетку (2.0 спальный, Евро, Семейный)."
+    ],
+    "systemTitle": "Стиль и типографика",
+    "systemText": "Оформление выполнено в концепции «Warm & Minimal» с использованием нежных бежево-молочных фоновых оттенков. В заглавном блоке использован вытянутый утонченный шрифт с высокими засечками для названия материала («Страйп-сатин») и акцентная контрастная типографика для названия оттенков и состава. Композиция выдержана в строгой сетке с правым выравниванием характеристик и естественным 3D-моделированием освещения.",
+    "resultTitle": "Результат",
+    "resultText": "Готовая эстетичная линейка обложек товаров, создающая целостный дорогой образ бренда в каталоге маркетплейса и повышающая кликабельность (CTR) карточек.",
+    "sections": []
   }
 ]
