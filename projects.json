@@ -601,5 +601,47 @@
     "resultTitle": "Результат",
     "resultText": "Готовый набор адаптивных цифровых промо-материалов, оптимизированных для интеграции в веб-интерфейсы, стимулирующих рост регистраций и повышающих вовлеченность новых пользователей.",
     "sections": []
+  },
+  {
+    "id": "41107044-171f-44f7-9678-2d04d2452d15",
+    "title": "Wildberries & Ozon",
+    "type": "E-commerce Infographics",
+    "category": "Graphic Design / Marketplace Infographics / Visual Branding",
+    "year": "2024",
+    "description": "Разработка презентации-кейса, демонстрирующей процесс и результаты создания инфографики для карточек товаров на маркетплейсах (на примере женской сумки Tommy Hilfiger и смартфона HONOR X7c).",
+    "services": [
+      "Graphic Design",
+      "Marketplace Infography",
+      "E-commerce Design",
+      "Photo Editing",
+      "Visual Storytelling"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/41107044-171f-44f7-9678-2d04d2452d15/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/41107044-171f-44f7-9678-2d04d2452d15/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/41107044-171f-44f7-9678-2d04d2452d15/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/41107044-171f-44f7-9678-2d04d2452d15/04.jpg",
+        "caption": "04 — SCREEN 02"
+      }
+    ],
+    "overviewTitle": "Задачи и концепция",
+    "overviewText": [
+      "Показать экспертный подход к проектированию карточек товаров для e-commerce: от исхода без фона до пошаговой сборки финального макета. Главная цель дизайна — подчеркнуть ключевые достоинства товара, выгодно выделить его среди конкурентов в выдаче и вызывать у покупателя желание совершить покупку."
+    ],
+    "systemTitle": "Пошаговая демонстрация и композиция",
+    "systemText": "Презентация построена на темной элегантной теме с акцентной типографикой. Внутри кейсов поэтапно раскрывается логика работы дизайнерского пайплайна: от исходного снимка товара на белом фоне до построения цветового фона, расстановки смысловых акцентов, добавления иконок характеристик (память, камера, батарея, дисплей) и плашек гарантии.",
+    "resultTitle": "Результат",
+    "resultText": "Наглядное, стильное и убедительное портфолио, эффективно демонстрирующее потенциальным заказчикам навыки работы с композицией, цветом, типографикой и коммерческой инфографикой для роста продаж.",
+    "sections": []
   }
 ]
