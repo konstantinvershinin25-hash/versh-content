@@ -433,5 +433,52 @@
     "resultTitle": "Результат",
     "resultText": "Готовый к печати комплект полиграфических материалов, который вызывает эмоциональный отклик у аудитории, вовлекает клиентов в повторные визиты благодаря бонусу («Бесплатный МК») и формирует узнаваемый локальный бренд.",
     "sections": []
+  },
+  {
+    "id": "450a268a-a867-426a-a967-f6a6f8f0a9d0",
+    "title": "«Mission Rock Advisors»",
+    "type": "Веб-дизайн / UI/UX Дизайн / Корпоративный сайт / Landing Page",
+    "category": "Web Design / UI/UX / Corporate & Advisory Branding",
+    "year": "2026",
+    "description": "Проектирование UI/UX интерфейса и дизайн многостраничного корпоративного сайта для консалтингового агентства «Mission Rock Advisors», специализирующегося на подборе C-level советников для биотехнологических стартапов.",
+    "services": [
+      "Web Design",
+      "UI/UX Design",
+      "Prototyping",
+      "Design System",
+      "Information Architecture",
+      "Corporate Identity"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/450a268a-a867-426a-a967-f6a6f8f0a9d0/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/450a268a-a867-426a-a967-f6a6f8f0a9d0/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/450a268a-a867-426a-a967-f6a6f8f0a9d0/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/450a268a-a867-426a-a967-f6a6f8f0a9d0/04.jpg",
+        "caption": "05 — SCREEN 03"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/450a268a-a867-426a-a967-f6a6f8f0a9d0/05.jpg",
+        "caption": "04 — SCREEN 02"
+      }
+    ],
+    "overviewTitle": "Задачи и концепция",
+    "overviewText": [
+      "Разработать доверительный, эстетичный и лаконичный веб-интерфейс для консалтинговой компании в сфере Biotech. Основная цель — создать удобную навигацию по базе экспертов (Our Bench), наглядно продемонстрировать этапы сотрудничества (How It Works), раскрыть экспертизу фаундеров (About) и реализовать функциональную форму заявки (Get in Touch)."
+    ],
+    "systemTitle": "Интерфейс и сетка",
+    "systemText": "Дизайн выполнен в премиальном минималистичном стиле с использованием глубокого темно-синего контрастного фона (#0D1B2A), бежевых карт-блоков (#F7F5F0) и акцентного золотисто-песочного оттенка. Внедрена интерактивная фильтрация экспертов по ролям (CMO, CFO, COO, CSO, BD), пошаговое переключение сценариев (для биотех-компаний и топ-менеджеров), а также проработана форма сбора лидов с выпадающими списками и динамическими полями.",
+    "resultTitle": "Результат",
+    "resultText": "Строгий, удобный и презентабельный цифровой продукт, эффективно подчеркивающий высокий статус агентства, облегчающий поиск топ-экспертов и ускоряющий конверсию посетителей в целевые заявки.",
+    "sections": []
   }
 ]
