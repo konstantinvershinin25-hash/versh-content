@@ -564,5 +564,42 @@
     "resultTitle": "Результат",
     "resultText": "Профессиональный, структурированный и эстетичный презентационный материал, который удерживает внимание аудитории, легко воспринимается во время выступления эксперта и повышает лояльность к бренду клиники.",
     "sections": []
+  },
+  {
+    "id": "bbf00818-3a93-4512-9cf1-93164d1e16aa",
+    "title": "Pop-Up Banners",
+    "type": "Digital Marketing / Web Graphics / Pop-Up Banners",
+    "category": "UI/UX Design / Banner Design / Promotional Design",
+    "year": "2026",
+    "description": "Разработка серии ярких рекламных всплывающих баннеров (попапов) в различных компоновках и стилях для привлечения новых пользователей на сервис бесплатного чата («New User / SignUp Chat Free»).",
+    "services": [
+      "Graphic Design",
+      "UI/UX Design",
+      "Web Banner Design",
+      "Digital Advertising"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/bbf00818-3a93-4512-9cf1-93164d1e16aa/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/bbf00818-3a93-4512-9cf1-93164d1e16aa/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/bbf00818-3a93-4512-9cf1-93164d1e16aa/03.jpg",
+        "caption": "03 — SCREEN 01"
+      }
+    ],
+    "overviewTitle": "Задачи и концепция",
+    "overviewText": [
+      "Разработать вариативную линейку компактных и привлекающих внимание всплывающих банеров для конверсии новых посетителей сайта. Основная цель — мгновенно донести ключевое ценностное предложение (бесплатный чат для новых пользователей) и побудить к быстрой регистрации."
+    ],
+    "systemTitle": "Вариантность и композиция",
+    "systemText": "В рамках проекта создано несколько концептуальных вариантов верстки и текстовых акцентов (горизонтальные и вертикальные компоновки). Использована контрастная типографика, привлекательные цветовые сочетания и акцентные плашки для плашек «NEW USER», «SignUp» и «CHAT FREE», что позволяет проводить А/Б-тестирование для выявления наибольшей конверсии.",
+    "resultTitle": "Результат",
+    "resultText": "Готовый набор адаптивных цифровых промо-материалов, оптимизированных для интеграции в веб-интерфейсы, стимулирующих рост регистраций и повышающих вовлеченность новых пользователей.",
+    "sections": []
   }
 ]
