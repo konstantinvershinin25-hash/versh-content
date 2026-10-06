@@ -480,5 +480,47 @@
     "resultTitle": "Результат",
     "resultText": "Строгий, удобный и презентабельный цифровой продукт, эффективно подчеркивающий высокий статус агентства, облегчающий поиск топ-экспертов и ускоряющий конверсию посетителей в целевые заявки.",
     "sections": []
+  },
+  {
+    "id": "ad675901-1ca5-478e-b604-eeb60cd4d638",
+    "title": "«Ashford & Co.»",
+    "type": "Веб-дизайн / Landing Page / UI/UX Дизайн",
+    "category": "Web Design / UI/UX / Business & Strategy Consulting",
+    "year": "2026",
+    "description": "Проектирование UI/UX и дизайн конверсионного лендинга для компании «Ashford & Co.», специализирующейся на операционном и стратегическом консалтинге для малого бизнеса и основателей стартапов.",
+    "services": [
+      "Web Design",
+      "UI/UX Design",
+      "Information Architecture",
+      "Corporate Identity",
+      "Design System"
+    ],
+    "images": [
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/ad675901-1ca5-478e-b604-eeb60cd4d638/01.jpg",
+        "caption": "01 — HERO"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/ad675901-1ca5-478e-b604-eeb60cd4d638/02.jpg",
+        "caption": "02 — OVERVIEW"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/ad675901-1ca5-478e-b604-eeb60cd4d638/03.jpg",
+        "caption": "03 — SCREEN 01"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/konstantinvershinin25-hash/versh-content/main/images/ad675901-1ca5-478e-b604-eeb60cd4d638/04.jpg",
+        "caption": "04 — SCREEN 02"
+      }
+    ],
+    "overviewTitle": "Задачи и концепция",
+    "overviewText": [
+      "Разработать лаконичный, элегантный и структурированный одностраничный сайт, подчеркивающий высокий уровень экспертизы в области оптимизации бизнес-процессов. Дизайн должен последовательно проводить пользователя от ключевой проблемы (операционный хаос) к решению, вариантам формата работы и форме записи на стратегическую консультацию."
+    ],
+    "systemTitle": "Визуальные решения и структура",
+    "systemText": "Оформление выполнено в концепции «quiet luxury / editorial style» с использованием теплого молочного фона, глубокого тёмно-зеленого/угольного цвета и изысканной акцентной антиквы в заголовках. Структура включает главный экран с метриками доверия (12+ лет опыта, $14M+ сэкономлено), сравнение «До / После», карточки тарифных планов (Operations Audit, Fractional Advisory, Project Sprint), пошаговый процесс работы (4 этапа), блок отзывов и интерактивный FAQ-аккордеон.",
+    "resultTitle": "Результат",
+    "resultText": "Строгий, выверенный и доверительный цифровой продукт с прозрачной структурой услуг, который эффективно конвертирует посетителей в бесплатные первичные аудиты и стратегические сессии.",
+    "sections": []
   }
 ]
